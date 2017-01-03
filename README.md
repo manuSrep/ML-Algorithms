@@ -11,7 +11,7 @@ This is a collection of Machine Learning (ML)-Algorithms I would like to underst
   - [] decision tree
   - [] random forests
   
-  - ### Discriminant Analysis
+  - #### Discriminant Analysis
     - [] linear discriminant analysis
     - [] quadraatic discriminant analysis
    
